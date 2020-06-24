@@ -22,4 +22,8 @@ while counter<size1:
     q1.append(int(input('Enter Next Value:')))
     counter+=1
 print(q1)
+no_of_elements_1=int(input('Enter No of Elements to be removed:'))
+for i in range(no_of_elements_1):
+    q1.popleft()
+print(q1)
 
