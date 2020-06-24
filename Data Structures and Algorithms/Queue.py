@@ -22,3 +22,4 @@ while counter<size1:
     q1.append(int(input('Enter Next Value:')))
     counter+=1
 print(q1)
+
