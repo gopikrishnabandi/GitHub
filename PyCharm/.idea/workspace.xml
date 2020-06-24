@@ -10,9 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b8629f5-b4e3-4556-8600-44b1c8021823" name="Default Changelist" comment="">
+    <list default="true" id="5b8629f5-b4e3-4556-8600-44b1c8021823" name="Default Changelist" comment="Commit">
       <change beforePath="$PROJECT_DIR$/../Data Structures and Algorithms/1-Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Structures and Algorithms/1-Linked List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +102,14 @@
       <option name="presentableId" value="Default" />
       <updated>1592922478693</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit">
+      <created>1593007293072</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593007293072</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,7 +125,8 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592922656841">
@@ -149,6 +157,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593007266868" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1593007303165">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1593007303165" />
     <state x="446" y="119" key="search.everywhere.popup" timestamp="1592922695135">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
