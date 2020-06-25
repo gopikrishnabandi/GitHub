@@ -95,7 +95,7 @@ print(ll.get_position(3).value)
 # Test insert
 ll.insert(e4, 3)
 # Should print 4 now
-print(ll.get_position(10).value)
+print(ll.get_position(1).value)
 
 # Test delete
 ll.delete(1)
