@@ -40,6 +40,13 @@ class LinkedListTest:
             counter += 1
         return None
 
+    def insert(self, new_node, position):
+        if position == 1:
+            new_node.next = self.head
+            self.head = new_node
+        elif position>1:
+
+
 
 n1 = Node(11)
 n2 = Node(21)
