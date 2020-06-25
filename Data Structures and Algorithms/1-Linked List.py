@@ -9,13 +9,13 @@ Then, use "Test Run" and "Submit" to run the test cases
 at the bottom."""
 
 
-class Element:
+class Element(object):
     def __init__(self, value):
         self.value = value
         self.next = None
 
 
-class LinkedList:
+class LinkedList(object):
     def __init__(self, head=None):
         self.head = head
 
@@ -92,16 +92,20 @@ print(ll.head.next.next.value)
 # Should also print 3
 print(ll.get_position(3).value)
 
+
 # Test insert
 ll.insert(e4, 3)
 # Should print 4 now
-print(ll.get_position(1).value)
+print(ll.get_position(3).value)
+
 
 # Test delete
 ll.delete(1)
 # Should print 2 now
 print(ll.get_position(1).value)
+
 # Should print 4 now
 print(ll.get_position(2).value)
+
 # Should print 3 now
 print(ll.get_position(3).value)
