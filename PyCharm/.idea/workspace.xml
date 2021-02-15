@@ -11,7 +11,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b8629f5-b4e3-4556-8600-44b1c8021823" name="Default Changelist" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/../Data Structures and Algorithms/BinarySearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data Structures and Algorithms/BinarySearchTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data Structures and Algorithms/BinaryTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data Structures and Algorithms/BublleSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data Structures and Algorithms/BucketSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data Structures and Algorithms/FibonacciRecursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data Structures and Algorithms/GraphRepresentation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data Structures and Algorithms/GraphTraversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data Structures and Algorithms/HashTable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data Structures and Algorithms/InsertionSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data Structures and Algorithms/MergeSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data Structures and Algorithms/Quicksort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data Structures and Algorithms/RadixSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data Structures and Algorithms/SelectionSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data Structures and Algorithms/SelectionSortUsingMin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +43,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1diz0TcoFgGhwGpdUCNbKR6fXkE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,8 +63,8 @@
       <recent name="C:\Users\gopib\Documents\GitHub\Data Structures and Algorithms" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.BinarySearch">
-    <configuration name="1-Linked List" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.SelectionSortUsingMin">
+    <configuration name="GraphRepresentation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyCharm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,7 +76,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Data Structures and Algorithms/1-Linked List.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Data Structures and Algorithms/GraphRepresentation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -70,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BinarySearch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="GraphTraversal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyCharm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,7 +97,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Data Structures and Algorithms/BinarySearch.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Data Structures and Algorithms/GraphTraversal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Dequeue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="InsertionSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyCharm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,7 +118,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Data Structures and Algorithms/Dequeue.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Data Structures and Algorithms/InsertionSort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="QueuePractice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="SelectionSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyCharm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,7 +139,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Data Structures and Algorithms/QueuePractice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Data Structures and Algorithms/SelectionSort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="StackUsingLinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="SelectionSortUsingMin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyCharm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,7 +160,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Data Structures and Algorithms/StackUsingLinkedList.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Data Structures and Algorithms/SelectionSortUsingMin.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.BinarySearch" />
-        <item itemvalue="Python.Dequeue" />
-        <item itemvalue="Python.QueuePractice" />
-        <item itemvalue="Python.StackUsingLinkedList" />
-        <item itemvalue="Python.1-Linked List" />
+        <item itemvalue="Python.SelectionSortUsingMin" />
+        <item itemvalue="Python.InsertionSort" />
+        <item itemvalue="Python.SelectionSort" />
+        <item itemvalue="Python.GraphTraversal" />
+        <item itemvalue="Python.GraphRepresentation" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +288,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593440221682</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Commit">
+      <created>1593553561872</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1593553561872</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -309,46 +331,46 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593006845024" />
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1593547585372">
+    <state width="1515" height="261" key="GridCell.Tab.0.bottom" timestamp="1594935840618">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593547585372" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1593547585372">
+    <state width="1515" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594935840618" />
+    <state width="1515" height="261" key="GridCell.Tab.0.center" timestamp="1594935840618">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593547585372" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1593547585371">
+    <state width="1515" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594935840618" />
+    <state width="1515" height="261" key="GridCell.Tab.0.left" timestamp="1594935840618">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593547585371" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1593547585372">
+    <state width="1515" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594935840618" />
+    <state width="1515" height="261" key="GridCell.Tab.0.right" timestamp="1594935840618">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593547585372" />
-    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1593546098143">
+    <state width="1515" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594935840618" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1594935840618">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593546098143" />
-    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1593546098143">
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594935840618" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1594935840618">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1593546098143" />
-    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1593546098142">
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594935840618" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1594935840618">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1593546098142" />
-    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1593546098143">
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594935840618" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1594935840618">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593546098143" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594935840618" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1593094735026">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593094735026" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1593440224252">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1593553563805">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1593440224252" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1593553563805" />
     <state x="446" y="119" width="672" height="678" key="search.everywhere.popup" timestamp="1593094887489">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
